@@ -11,7 +11,7 @@ GCC_WARNINGS=(
     "-O2"
 )
 
-STANDAR="c2x"
+STANDAR="c23"
 
 path=$(pwd)
 name=""
